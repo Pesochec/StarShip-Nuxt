@@ -1,0 +1,19 @@
+{
+  "name": "StarShip-Nuxt",
+  "version": "1.0.0",
+  "description": "StarShip application testcase",
+  "author": "Alexandrov Danila Viktorovich",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
